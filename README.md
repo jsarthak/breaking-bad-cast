@@ -4,7 +4,7 @@ React project that uses the [breaking bad api](https://breakingbadapi.com/docume
 
 # Demo
 ```
-Checkout live [demo](https://react-demo-apps-d79a7.web.app/) 
+Checkout live demo [here](https://react-demo-apps-d79a7.web.app) 
 ```
 
 # Usage
