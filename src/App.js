@@ -6,6 +6,7 @@ import CharacterGrid from './components/characters/characterGrid'
 import Search from './components/ui/search';
 const App = () => {
 
+
   const [items, setItems]= useState([])
   const [isLoading, setIsLoading]= useState(true)
   const [query, setQuery] = useState('')
